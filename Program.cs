@@ -12,7 +12,7 @@ namespace Basic_Concepts
         /// </summary>
 
 
-
+        //Main
         public static void Main(String[] args)
         {
             //console->classs
