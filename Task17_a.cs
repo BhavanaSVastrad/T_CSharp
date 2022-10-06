@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Training_CSharp
+namespace T_CSharp
 {
     public class File_ReadWrite
     {

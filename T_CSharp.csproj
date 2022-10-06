@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>T_CSharp.Task17_d</StartupObject>
+    <StartupObject>T_CSharp.Task18_b</StartupObject>
   </PropertyGroup>
 
 </Project>
